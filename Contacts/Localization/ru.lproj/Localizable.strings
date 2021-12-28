@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Contacts
+
+  Created by Саша Василенко on 20.12.2021.
+  
+*/
+"First name" = "Имя";
+"Last name" = "Фамилия";
+"Phone number" = "Номер тел.";
+"Phone" =  "Номер тел.";
+"Change photo" = "Изменить фото";
+"Camera access" = "Доступ к камере";
+"Access to the camera is prohibited. Please provide it in settings to continue." =  "Доступ к камере запрещён. Пожалуйста, предоставьте доступ к камере в настройках, чтобы продолжить.";
+"Settings" = "Настройки";
+"Photos access" = "Доступ к галерее";
+"Access to the photo gallery is prohibited. Please provide it in settings to continue." = "Доступ к галерее запрещён. Пожалуйста, предоставьте доступ к ней в настройках, чтобы продолжить.";
+"Take Photo" = "Сделать фото";
+"Choose from Photo Library" = "Выбрать из альбома";
+"Cancel" = "Отмена";
+"Delete" = "Удалить";
+"Don`t allow" = "Не разрешать";
+"Wrong number format" = "Неверный формат номера";
+"Wrong email format" = "Неверный формат эл. почты";
+"Field can not contain only spaces" = "Поле не может состоять из пробелов";
+"Max length is 30 characters" = "Максимум 30 символов";
+"Done" = "Готово";
+"Birthday" = "Дата рождения";
+"Height" = "Рост";
+"New Contact" = "Новый контакт";
+"Add photo" = "Добавить фото";

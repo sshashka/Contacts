@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "2yt-Bh-XvU"; */
+"2yt-Bh-XvU.text" = "First Name";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "DbW-7B-7eZ"; */
+"DbW-7B-7eZ.title" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EHs-t5-QIN"; */
+"EHs-t5-QIN.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add Photo"; ObjectID = "I2d-fV-vzl"; */
+"I2d-fV-vzl.normalTitle" = "Add Photo";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "MSH-qk-Nma"; */
+"MSH-qk-Nma.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "+38 000 000 00 00"; ObjectID = "VJp-i1-Gd2"; */
+"VJp-i1-Gd2.text" = "+38 000 000 00 00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WGb-3Z-ZTX"; */
+"WGb-3Z-ZTX.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "Yed-cc-UPa"; */
+"Yed-cc-UPa.title" = "Contacts";
+
+/* Class = "UINavigationItem"; title = "New Contact"; ObjectID = "ZGf-zA-Wb8"; */
+"ZGf-zA-Wb8.title" = "New Contact";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "gL4-Kw-XgY"; */
+"gL4-Kw-XgY.title" = "Add";
+
+/* Class = "UILabel"; text = "Error Label"; ObjectID = "jTf-6q-bhi"; */
+"jTf-6q-bhi.text" = "Error Label";
+
+/* Class = "UILabel"; text = "FirstName FirstName"; ObjectID = "zqA-Hu-bJe"; */
+"zqA-Hu-bJe.text" = "FirstName FirstName";
